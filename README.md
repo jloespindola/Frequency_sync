@@ -6,7 +6,8 @@ Figure 3(b): oc091818_28.lvm
 
 Figure 3(c): oc091818_43.lvm
 
-Figure 3(d): 
+Figure 3(d):
+
 oc091818_28.lvm points at ΔR=0 ohm,
 
 oc091818_39.lvm points at ΔR=50 ohm, 
@@ -36,7 +37,8 @@ Figure 4(c): oc032218_13.lvm
 Figure 4(d): oc032218_15.lvm
 
 
-Figure 5: 
+Figure 5:
+
 oc032118_4.lvm point at R_ind=1000 ohm,
 
 oc032118_5.lvm point at R_ind=1020 ohm,
