@@ -6,7 +6,7 @@ Figure 3(b): oc091818_28.lvm
 
 Figure 3(c): oc091818_43.lvm
 
-Figure 3(d): oc091818_28.lvm, oc091818_29.lvm, oc091818_41.lvm, oc091818_42.lvm, oc091818_43.lvm, oc091818_45.lvm, oc091818_46.lvm, oc091818_50.lvm, oc091818_51.lvm.
+Figure 3(d): oc091818_28.lvm, oc091818_39.lvm, oc091818_41.lvm, oc091818_42.lvm, oc091818_43.lvm, oc091818_45.lvm, oc091818_46.lvm, oc091818_50.lvm, oc091818_51.lvm.
 
 
 Figure 4(a): oc032218_12.lvm
