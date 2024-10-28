@@ -1,5 +1,6 @@
 # Frequency_sync
-This repository includes the data measured from the experiments. For all files, columns 1 to 80 correspond to the currents for electrodes 1 to 80, respectively.
+This repository includes the data measured from the experiments. For all files, columns 1 to 80 correspond to the currents for electrodes 1 to 80, respectively. The currents were measured at an acquisition
+rate of 200 Hz.
 
 
 Figure 3(b): oc091818_28.lvm
