@@ -38,7 +38,7 @@ Figure 4(c): oc032218_13.lvm
 Figure 4(d): oc032218_15.lvm
 
 
-Figure 5:
+Figure S1:
 
 oc032118_4.lvm point at R_ind=1000 ohm,
 
