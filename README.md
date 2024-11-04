@@ -44,13 +44,12 @@ oc032118_4.lvm point at R_ind=1000 ohm,
 
 oc032118_5.lvm point at R_ind=1020 ohm,
 
-oc032118_6.lvm point at R_ind=1070 ohm,
-
 oc032118_7.lvm point at R_ind=1050 ohm, 
 
-oc032118_8.lvm point at R_ind=1150 ohm, 
+oc032118_6.lvm point at R_ind=1070 ohm,
 
 oc032118_9.lvm point at R_ind=1100 ohm, 
 
-oc032118_10.lvm point at R_ind=1120 ohm.
+oc032118_10.lvm point at R_ind=1120 ohm,
 
+oc032118_8.lvm point at R_ind=1150 ohm.
