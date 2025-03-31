@@ -3,11 +3,11 @@ This repository includes the data measured from the experiments. For all files, 
 rate of 200 Hz.
 
 
-Figure 3(b): oc091818_28.lvm
+Figure 4(b): oc091818_28.lvm
 
-Figure 3(c): oc091818_43.lvm
+Figure 4(c): oc091818_43.lvm
 
-Figure 3(d):
+Figure 4(d):
 
 oc091818_28.lvm points at ΔR=0 ohm,
 
@@ -29,13 +29,13 @@ oc091818_51.lvm points at ΔR=340 ohm.
 
 
 
-Figure 4(a): oc032218_12.lvm
+Figure 5(a): oc032218_12.lvm
 
-Figure 4(b): oc032218_14.lvm
+Figure 5(b): oc032218_14.lvm
 
-Figure 4(c): oc032218_13.lvm
+Figure 5(c): oc032218_13.lvm
 
-Figure 4(d): oc032218_15.lvm
+Figure 5(d): oc032218_15.lvm
 
 
 Figure S1:
